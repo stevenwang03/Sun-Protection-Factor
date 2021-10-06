@@ -9,7 +9,6 @@ As a skincare enthusiast, I  always wondered how the Sun Protection Factor (SPF)
 https://everydayanalytics.ca/2020/02/how-does-spf-work.html
 
 <br></br>
-<br></br>
 **Calculatable numbers of common sunscreens:**
 
 SPF 4 blocks 75 percent of UVB rays
