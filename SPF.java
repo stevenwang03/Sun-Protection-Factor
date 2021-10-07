@@ -31,13 +31,13 @@ public class SPF {
     
     public String getUVB() {
         
-        return "With SPF " + SPF + ", you will have a " + protectionUVB +"% protection against UVB rays.";
+        return "With SPF " + SPF + ", you will have " + protectionUVB +"% protection against UVB rays.";
         
     }
     
     public String getBurnTime() {
         
-        return "With SPF " + SPF + ", you will burn in around " + burnTimeMins + ".";
+        return "With SPF " + SPF + ", you will burn in around " + burnTimeMins + " minutes.";
         
     }
     
